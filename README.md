@@ -17,8 +17,8 @@ listing page). Also clones the first gallery, if present. Requires jQuery
 loaded globally as `$` and a `cloned_id` (Number) field on the element
 definition. The latter links the source to the clone so that subsequent
 duplication will not create a new element. See
-[duplicator.js](https://github.com/Voog/devkit/duplicator/duplicator.js) for
-details.
+[duplicator.js](https://github.com/Voog/devkit/blob/master/duplicator/duplicator.js)
+for details.
 
 The class should be instantiated in edit mode and for the source language
 only. Upon instantiation, a button initiating duplication is rendered into the
