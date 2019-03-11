@@ -2,7 +2,8 @@
 
 This repository is intended to accumulate useful code snippets and examples
 for developers working on Voog. Currently it only contains the `Duplicator`
-class - an example of element duplication via the Voog REST API.
+class - an example of element duplication via the [Voog REST
+API](https://www.voog.com/developers/api/).
 
 See also:
 
